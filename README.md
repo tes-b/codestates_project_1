@@ -1,2 +1,3 @@
-# codestates_project_1
-codestates_project_1  game sales data analysis
+# Codestates Project 1
+
+게임 판매량 데이터 분석
